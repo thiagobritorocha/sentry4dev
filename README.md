@@ -21,3 +21,5 @@
 - SENTRY_AUTH_TOKEN
 - SENTRY_LOG_LEVEL
 - SENTRY_ORG
+
+https://www.youtube.com/watch?v=hPQVeUC4uUU&ab_channel=SouJava
